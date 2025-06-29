@@ -39,8 +39,6 @@ cmake==3.26.4
 cmdstanpy==1.1.0
 contourpy==1.1.0
 convertdate==2.4.0
-cryptography==36.0.0
-cupshelpers==1.0
 cycler==0.11.0
 Cython==0.29.35
 darts==0.24.0
