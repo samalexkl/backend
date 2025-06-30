@@ -213,7 +213,6 @@ tensorflow-datasets==4.9.2
 tensorflow-estimator==2.9.0
 tensorflow-io-gcs-filesystem==0.32.0
 tensorflow-metadata==1.13.1
-tensorflow-privacy==0.7.3
 tensorflow-probability==0.16.0
 termcolor==2.3.0
 terminado==0.12.1
