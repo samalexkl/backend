@@ -249,7 +249,6 @@ Werkzeug==2.2.3
 widgetsnbextension==4.0.7
 wrapt==1.14.1
 xarray==2023.1.0
-xgboost==1.7.6
 xkit==0.0.0
 xxhash==3.5.0
 yarl==1.9.2
