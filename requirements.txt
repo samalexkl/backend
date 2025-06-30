@@ -190,7 +190,6 @@ pycairo==1.16.2
 pycparser==2.21
 pydantic==2.10.6
 pydantic-core==2.27.2
-pyg-lib==0.2.0+pt20cu117
 Pygments==2.10.0
 PyGObject==3.36.0
 PyJWT==1.7.1
