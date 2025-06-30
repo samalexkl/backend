@@ -148,7 +148,7 @@ pmdarima==2.0.3
 prometheus-client==0.12.0
 promise==2.3
 proto-plus==1.26.1
-protobuf==3.20.3
+protobuf==3.19.5
 psutil==5.9.5
 ptyprocess==0.7.0
 pyarrow==17.0.0
