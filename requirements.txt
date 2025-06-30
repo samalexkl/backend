@@ -232,8 +232,7 @@ torchvision==0.19.1
 tornado==6.1
 tqdm==4.65.0
 traitlets==5.9.0
-transformers
-xkit==0.0.0
+transformers==4.46.3
 xxhash==3.5.0
 yarl==1.9.2
 zipp==3.6.0
